@@ -1,0 +1,14 @@
+:root{
+	/*cores*/
+
+	--marromEscuro:#1F130F;
+	--cinza: #1a2b2b;
+	--vermelhoEscuro: #150b0a;
+	--vermelho: #4a0d0d;
+	--vermelhoClaro: #800909;
+	--textColor: #d0fbfa;
+
+	/*medidas*/
+	--border: 8px;
+
+}

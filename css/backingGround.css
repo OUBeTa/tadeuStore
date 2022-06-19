@@ -1,0 +1,29 @@
+#bgPlaceHolder{
+
+	position: absolute;
+	z-index: -1;
+	border: var(--border) solid var(--marromEscuro);
+	width: calc(100vw - (2 * var(--border)));
+	height: calc(100vh - (2 * var(--border)));
+
+}
+
+#blackEspectre{
+
+	position: absolute;
+	z-index: -1;
+	background-color: var(--cinza);
+	width: calc(100vw - (2 * var(--border)));
+	height: calc(100vh - (2 * var(--border)));
+	opacity: 60%;
+	
+}
+
+#bgImg{ 
+
+	position: absolute;
+	z-index: -2;
+	height: 100%;
+	width: 100%;
+
+}
